@@ -1,0 +1,7 @@
+baseURL: https://bilawal.net/
+languageCode: en-gb
+title: Tips and Guides for Devs
+
+module:
+  imports:
+    - path: github.com/imfing/hextra
